@@ -1,0 +1,7 @@
+.nav-link {
+  text-decoration: none;
+  color: white;
+  height: 4em;
+  display: flex;
+  align-items: center;
+}

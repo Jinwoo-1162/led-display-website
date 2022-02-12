@@ -1,0 +1,40 @@
+.navbar {
+  background-color: rgb(49, 49, 49);
+  height: 4em;
+  /* width: 100%; */
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-container {
+  height: 4em;
+  width: fit-content;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: flex-end;
+  margin-right: 4em;
+  gap: 5em;
+}
+
+.ece-logo {
+  /* min-height: 100%; */
+  max-width: 100%;
+  max-height: 100%;
+  /* height: 4em; */
+  object-fit: contain;
+  margin-right: 1em;
+}
+
+.logo-name {
+  position: relative;
+  top: -0.7em;
+  color: rgb(212, 173, 44);
+  font-size: 2em;
+  text-decoration: none;
+}
