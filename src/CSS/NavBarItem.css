@@ -2,6 +2,14 @@
   text-decoration: none;
   color: white;
   height: 4em;
+  width: 6em;
   display: flex;
   align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: 300ms;
+}
+
+.nav-link:hover {
+  background-color: rgb(65, 65, 65);
 }

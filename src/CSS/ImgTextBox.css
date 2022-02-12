@@ -7,12 +7,23 @@
   align-items: center;
   width: 60vw;
   border-radius: 10px;
+  transition: 500ms;
+}
+
+.content-container:hover {
+  transform: scale(1.01);
+  box-shadow: 5px 5px 10px rgb(116, 116, 116);
 }
 
 .content-image {
   object-fit: contain;
   width: 50vw;
   border-radius: 10px;
+}
+
+.content-title {
+  color: white;
+  text-decoration: underline;
 }
 
 .content-text {

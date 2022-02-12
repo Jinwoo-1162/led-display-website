@@ -11,6 +11,7 @@ function Contact() {
         <ImgTextBox
           className="main-content"
           imgSource="Led.JPG"
+          title="Contact Us"
           text="Reach us here"
         />
       </div>

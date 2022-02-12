@@ -18,8 +18,8 @@ function NavBar(props) {
       </div>
       <div className="links">
         <NavBarItem link="/" name="Home" />
-        <NavBarItem link="/contact" name="Contact" />
         <NavBarItem link="/about" name="About" />
+        <NavBarItem link="/contact" name="Contact" />
       </div>
     </div>
   );

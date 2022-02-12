@@ -8,7 +8,11 @@ function About() {
     <div className="aboutpage">
       <NavBar />
       <div className="page-content">
-        <ImgTextBox imgSource="Led.JPG" text="This is our mission" />
+        <ImgTextBox
+          imgSource="Led.JPG"
+          title="About Us"
+          text="This is our mission"
+        />
       </div>
     </div>
   );
