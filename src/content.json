@@ -1,0 +1,17 @@
+{
+  "home": {
+    "imageSource": "Led.JPG",
+    "title": "Welcome to Our Website",
+    "text": "Hello, this is our website for our senior design project"
+  },
+  "about": {
+    "imageSource": "Led.JPG",
+    "title": "About Us",
+    "text": "Learn about us here"
+  },
+  "contact": {
+    "imageSource": "Led.JPG",
+    "title": "Contact Us",
+    "text": "This is how to reach us"
+  }
+}
